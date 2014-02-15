@@ -3,7 +3,7 @@
   "description": "bootstrap 3.1.0 with ganagro theme",
   "homepage": "https://github.com/softwarerero/meteor-bootstrap-ganagro",
   "author": "El Softwarerero",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "git": "https://github.com/softwarerero/meteor-bootstrap-ganagro.git",
   "packages": { }
 }
